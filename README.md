@@ -5,7 +5,7 @@
 ```
 git clone https://github.com/zoesimin/neo4jDB.git
 cd neo4jDB
-docker run \
+sudo docker run \
     --name testneo4j \
     -p7474:7474 -p7687:7687 \
     -d \
