@@ -1,0 +1,71 @@
+nohup: ignoring input
+2018-12-12 16:19:21.596+0000 INFO  ======== Neo4j 3.5.0 ========
+2018-12-12 16:19:21.604+0000 INFO  Starting...
+2018-12-12 16:19:23.663+0000 INFO  Bolt enabled on 0.0.0.0:7687.
+2018-12-12 16:19:25.039+0000 INFO  Started.
+2018-12-12 16:19:25.948+0000 INFO  Remote interface available at http://localhost:7474/
+2018-12-12 16:19:40.409+0000 WARN  The client is unauthorized due to authentication failure.
+2018-12-13 05:52:14.980+0000 WARN  The client is unauthorized due to authentication failure.
+2018-12-13 06:19:36.598+0000 WARN  The client is unauthorized due to authentication failure.
+2018-12-13 09:26:44.684+0000 WARN  The client is unauthorized due to authentication failure.
+2018-12-13 10:18:11.914+0000 WARN  The client is unauthorized due to authentication failure.
+2018-12-13 10:40:49.382+0000 WARN  The client is unauthorized due to authentication failure.
+2018-12-13 11:05:12.853+0000 WARN  The client is unauthorized due to authentication failure.
+2018-12-14 14:47:01.191+0000 WARN  The client is unauthorized due to authentication failure.
+2018-12-14 16:35:47.055+0000 WARN  The client is unauthorized due to authentication failure.
+2018-12-14 16:40:34.738+0000 WARN  The client is unauthorized due to authentication failure.
+2018-12-15 07:50:09.398+0000 WARN  The client is unauthorized due to authentication failure.
+2018-12-15 10:59:39.096+0000 WARN  The client is unauthorized due to authentication failure.
+2018-12-16 13:19:31.726+0000 WARN  The client is unauthorized due to authentication failure.
+2018-12-18 03:33:19.532+0000 WARN  The client is unauthorized due to authentication failure.
+2018-12-24 05:35:00.493+0000 WARN  The client is unauthorized due to authentication failure.
+2018-12-26 17:12:41.777+0000 WARN  The client is unauthorized due to authentication failure.
+2018-12-27 12:09:54.061+0000 WARN  The client is unauthorized due to authentication failure.
+2018-12-27 14:06:24.522+0000 WARN  The client is unauthorized due to authentication failure.
+2018-12-27 14:20:45.454+0000 WARN  The client is unauthorized due to authentication failure.
+2018-12-27 14:47:09.894+0000 INFO  Neo4j Server shutdown initiated by request
+2018-12-27 14:47:39.995+0000 WARN  QueuedThreadPool[qtp1188100252]@46d0f89c{STOPPING,8<=14<=14,i=0,q=8}[org.eclipse.jetty.util.thread.TryExecutor$$Lambda$379/1628421660@3a61a3a9] Couldn't stop Thread[qtp1188100252-2223,5,main]
+2018-12-27 14:47:39.995+0000 WARN  QueuedThreadPool[qtp1188100252]@46d0f89c{STOPPING,8<=14<=14,i=0,q=8}[org.eclipse.jetty.util.thread.TryExecutor$$Lambda$379/1628421660@3a61a3a9] Couldn't stop Thread[qtp1188100252-2188,5,main]
+2018-12-27 14:47:39.995+0000 WARN  QueuedThreadPool[qtp1188100252]@46d0f89c{STOPPING,8<=14<=14,i=0,q=8}[org.eclipse.jetty.util.thread.TryExecutor$$Lambda$379/1628421660@3a61a3a9] Couldn't stop Thread[qtp1188100252-2138,5,main]
+2018-12-27 14:47:39.995+0000 WARN  QueuedThreadPool[qtp1188100252]@46d0f89c{STOPPING,8<=14<=14,i=0,q=8}[org.eclipse.jetty.util.thread.TryExecutor$$Lambda$379/1628421660@3a61a3a9] Couldn't stop Thread[qtp1188100252-2234,5,main]
+2018-12-27 14:47:39.995+0000 WARN  QueuedThreadPool[qtp1188100252]@46d0f89c{STOPPING,8<=14<=14,i=0,q=8}[org.eclipse.jetty.util.thread.TryExecutor$$Lambda$379/1628421660@3a61a3a9] Couldn't stop Thread[qtp1188100252-2274,5,main]
+2018-12-27 14:47:39.995+0000 WARN  QueuedThreadPool[qtp1188100252]@46d0f89c{STOPPING,8<=14<=14,i=0,q=8}[org.eclipse.jetty.util.thread.TryExecutor$$Lambda$379/1628421660@3a61a3a9] Couldn't stop Thread[qtp1188100252-2294,5,main]
+2018-12-27 14:47:39.995+0000 WARN  QueuedThreadPool[qtp1188100252]@46d0f89c{STOPPING,8<=14<=14,i=0,q=8}[org.eclipse.jetty.util.thread.TryExecutor$$Lambda$379/1628421660@3a61a3a9] Couldn't stop Thread[qtp1188100252-2137,5,main]
+2018-12-27 14:47:39.995+0000 WARN  QueuedThreadPool[qtp1188100252]@46d0f89c{STOPPING,8<=14<=14,i=0,q=8}[org.eclipse.jetty.util.thread.TryExecutor$$Lambda$379/1628421660@3a61a3a9] Couldn't stop Thread[qtp1188100252-2192,5,main]
+2018-12-27 14:47:40.000+0000 INFO  Stopping...
+2018-12-27 14:47:40.057+0000 INFO  Stopped.
+nohup: ignoring input
+2018-12-27 14:47:41.701+0000 INFO  ======== Neo4j 3.5.0 ========
+2018-12-27 14:47:41.709+0000 INFO  Starting...
+2018-12-27 14:47:43.526+0000 INFO  Bolt enabled on 0.0.0.0:7687.
+2018-12-27 14:47:44.939+0000 INFO  Started.
+2018-12-27 14:47:45.884+0000 INFO  Remote interface available at http://localhost:7474/
+2018-12-28 11:36:02.885+0000 WARN  The client is unauthorized due to authentication failure.
+2018-12-28 11:36:45.664+0000 INFO  Neo4j Server shutdown initiated by request
+2018-12-28 11:37:16.888+0000 WARN  QueuedThreadPool[qtp1694723725]@65036e8d{STOPPING,8<=14<=14,i=0,q=8}[org.eclipse.jetty.util.thread.TryExecutor$$Lambda$385/943512909@4119f97f] Couldn't stop Thread[qtp1694723725-168,5,main]
+2018-12-28 11:37:16.888+0000 WARN  QueuedThreadPool[qtp1694723725]@65036e8d{STOPPING,8<=14<=14,i=0,q=8}[org.eclipse.jetty.util.thread.TryExecutor$$Lambda$385/943512909@4119f97f] Couldn't stop Thread[qtp1694723725-83,5,main]
+2018-12-28 11:37:16.888+0000 WARN  QueuedThreadPool[qtp1694723725]@65036e8d{STOPPING,8<=14<=14,i=0,q=8}[org.eclipse.jetty.util.thread.TryExecutor$$Lambda$385/943512909@4119f97f] Couldn't stop Thread[qtp1694723725-35,5,main]
+2018-12-28 11:37:16.888+0000 WARN  QueuedThreadPool[qtp1694723725]@65036e8d{STOPPING,8<=14<=14,i=0,q=8}[org.eclipse.jetty.util.thread.TryExecutor$$Lambda$385/943512909@4119f97f] Couldn't stop Thread[qtp1694723725-77,5,main]
+2018-12-28 11:37:16.889+0000 WARN  QueuedThreadPool[qtp1694723725]@65036e8d{STOPPING,8<=14<=14,i=0,q=8}[org.eclipse.jetty.util.thread.TryExecutor$$Lambda$385/943512909@4119f97f] Couldn't stop Thread[qtp1694723725-41,5,main]
+2018-12-28 11:37:16.889+0000 WARN  QueuedThreadPool[qtp1694723725]@65036e8d{STOPPING,8<=14<=14,i=0,q=8}[org.eclipse.jetty.util.thread.TryExecutor$$Lambda$385/943512909@4119f97f] Couldn't stop Thread[qtp1694723725-171,5,main]
+2018-12-28 11:37:16.889+0000 WARN  QueuedThreadPool[qtp1694723725]@65036e8d{STOPPING,8<=14<=14,i=0,q=8}[org.eclipse.jetty.util.thread.TryExecutor$$Lambda$385/943512909@4119f97f] Couldn't stop Thread[qtp1694723725-188,5,main]
+2018-12-28 11:37:16.889+0000 WARN  QueuedThreadPool[qtp1694723725]@65036e8d{STOPPING,8<=14<=14,i=0,q=8}[org.eclipse.jetty.util.thread.TryExecutor$$Lambda$385/943512909@4119f97f] Couldn't stop Thread[qtp1694723725-46,5,main]
+2018-12-28 11:37:16.910+0000 INFO  Stopping...
+2018-12-28 11:37:17.163+0000 INFO  Stopped.
+nohup: ignoring input
+2018-12-28 11:37:22.122+0000 INFO  ======== Neo4j 3.5.0 ========
+2018-12-28 11:37:22.172+0000 INFO  Starting...
+2018-12-28 11:37:29.510+0000 INFO  Bolt enabled on 0.0.0.0:7687.
+2018-12-28 11:37:33.427+0000 INFO  Started.
+2018-12-28 11:37:36.608+0000 INFO  Remote interface available at http://localhost:7474/
+2019-03-22 10:32:08.865+0000 ERROR Failed to start transaction. The database has encountered a critical error, and needs to be restarted. Please see database logs for more details.
+org.neo4j.graphdb.TransactionFailureException: The database has encountered a critical error, and needs to be restarted. Please see database logs for more details.
+	at org.neo4j.graphdb.facade.spi.ClassicCoreSPI.beginTransaction(ClassicCoreSPI.java:193)
+	at org.neo4j.kernel.impl.factory.GraphDatabaseFacade.beginTransactionInternal(GraphDatabaseFacade.java:689)
+	at org.neo4j.kernel.impl.factory.GraphDatabaseFacade.beginTransaction(GraphDatabaseFacade.java:373)
+	at org.neo4j.server.rest.transactional.TransitionalTxManagementKernelTransaction.startTransaction(TransitionalTxManagementKernelTransaction.java:128)
+	at org.neo4j.server.rest.transactional.TransitionalTxManagementKernelTransaction.<init>(TransitionalTxManagementKernelTransaction.java:52)
+	at org.neo4j.server.rest.transactional.TransitionalPeriodTransactionMessContainer.newTransaction(TransitionalPeriodTransactionMessContainer.java:55)
+	at org.neo4j.server.rest.transactional.TransactionHandle.ensureActiveTransaction(TransactionHandle.java:213)
+	at org.neo4j.server.rest.transactional.TransactionHandle.commit(TransactionHandle.java:156)
+	at org.neo4j.server.rest.web.TransactionalService.lambda$executeStatementsAndCommit$1(TransactionalS
